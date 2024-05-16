@@ -1,0 +1,14 @@
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\bin\Debug\net6.0\kui ja siis harjutus.exe
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\bin\Debug\net6.0\kui ja siis harjutus.deps.json
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\bin\Debug\net6.0\kui ja siis harjutus.runtimeconfig.json
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\bin\Debug\net6.0\kui ja siis harjutus.dll
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\bin\Debug\net6.0\kui ja siis harjutus.pdb
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.dll
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\refint\kui ja siis harjutus.dll
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.pdb
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\kui ja siis harjutus.genruntimeconfig.cache
+C:\Users\opilane\source\repos\Ifelse\kui ja siis harjutus\obj\Debug\net6.0\ref\kui ja siis harjutus.dll
